@@ -1,0 +1,15 @@
+C:\Users\Student\Desktop\pawelfiderek_SWPS\pawelfiderek_SWPS\bin\Debug\net7.0\pawelfiderek_SWPS.exe
+C:\Users\Student\Desktop\pawelfiderek_SWPS\pawelfiderek_SWPS\bin\Debug\net7.0\pawelfiderek_SWPS.deps.json
+C:\Users\Student\Desktop\pawelfiderek_SWPS\pawelfiderek_SWPS\bin\Debug\net7.0\pawelfiderek_SWPS.runtimeconfig.json
+C:\Users\Student\Desktop\pawelfiderek_SWPS\pawelfiderek_SWPS\bin\Debug\net7.0\pawelfiderek_SWPS.dll
+C:\Users\Student\Desktop\pawelfiderek_SWPS\pawelfiderek_SWPS\bin\Debug\net7.0\pawelfiderek_SWPS.pdb
+C:\Users\Student\Desktop\pawelfiderek_SWPS\pawelfiderek_SWPS\obj\Debug\net7.0\pawelfiderek_SWPS.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\pawelfiderek_SWPS\pawelfiderek_SWPS\obj\Debug\net7.0\pawelfiderek_SWPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\pawelfiderek_SWPS\pawelfiderek_SWPS\obj\Debug\net7.0\pawelfiderek_SWPS.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\pawelfiderek_SWPS\pawelfiderek_SWPS\obj\Debug\net7.0\pawelfiderek_SWPS.AssemblyInfo.cs
+C:\Users\Student\Desktop\pawelfiderek_SWPS\pawelfiderek_SWPS\obj\Debug\net7.0\pawelfiderek_SWPS.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\pawelfiderek_SWPS\pawelfiderek_SWPS\obj\Debug\net7.0\pawelfiderek_SWPS.dll
+C:\Users\Student\Desktop\pawelfiderek_SWPS\pawelfiderek_SWPS\obj\Debug\net7.0\refint\pawelfiderek_SWPS.dll
+C:\Users\Student\Desktop\pawelfiderek_SWPS\pawelfiderek_SWPS\obj\Debug\net7.0\pawelfiderek_SWPS.pdb
+C:\Users\Student\Desktop\pawelfiderek_SWPS\pawelfiderek_SWPS\obj\Debug\net7.0\pawelfiderek_SWPS.genruntimeconfig.cache
+C:\Users\Student\Desktop\pawelfiderek_SWPS\pawelfiderek_SWPS\obj\Debug\net7.0\ref\pawelfiderek_SWPS.dll
