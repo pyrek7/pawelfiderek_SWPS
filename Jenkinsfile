@@ -39,7 +39,7 @@ pipeline {
             }
             stage('Test') {
                 steps {
-                    echo 'testy testy'
+                    echo 'test'
                    }
                 }
             }
@@ -48,6 +48,9 @@ pipeline {
                    dir("pawelfiderek_SWPS"){
                     bat "${dotnet} clean"
                    }
+                    echo 'clean'
+                   }
                 }
             }
     }
+}
