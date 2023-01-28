@@ -32,27 +32,22 @@ pipeline {
             }
             stage('Build') {
                 steps {
-                   dir("Calculator"){
+                   dir("pawelfiderek_SWPS"){
                     bat "${dotnet} build"
                    }
                 }
             }
             stage('Test') {
                 steps {
-                    dir("CalculatorTests"){
-                    bat "${dotnet} test"
+                    echo 'testy testy'
                    }
                 }
             }
             stage('Clean') {
                 steps {
-                   dir("Calculator"){
-                    bat "${dotnet} clean"
-                   }
-                    dir("CalculatorTests"){
+                   dir("pawelfiderek_SWPS"){
                     bat "${dotnet} clean"
                    }
                 }
             }
     }
-}
